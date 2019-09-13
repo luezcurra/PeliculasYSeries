@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>690245939416-91ikhrhec0detd7f7prkrilhg61fvelh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.690245939416-91ikhrhec0detd7f7prkrilhg61fvelh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq9WjjejEeUyFkj9sAN1gJgNhWKhR5l6E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>690245939416</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>DigitalHouse.proyectoFinalv2</string>
+	<key>PROJECT_ID</key>
+	<string>crabflix-dh</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crabflix-dh.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:690245939416:ios:eeaccc26eb415040</string>
+	<key>DATABASE_URL</key>
+	<string>https://crabflix-dh.firebaseio.com</string>
+</dict>
+</plist>
